@@ -549,11 +549,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6288292024190 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/Cakhaho\n⭔ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/Nafron-03-17' }, caption: `*Hai Kak ${m.pushName}*\n\n Fron BOT Mau di sewa?\n⭔ 10 ribu Per Group via Dana,Gopay,Ovo 1 Bulan\n⭔ 10 Ribu via pulsa 1 Month\n\n Premium User Fron BOT\n⭔ 5 ribu per User 1 bulan\n\nPembayaran Melalui Dana/Gopay/Pulsa\n\nTertarik?, Tunggu apalagi chat owner(Pemilik BOT)\nhttps://wa.me/6281252733108 (Owner Nafron)}, { quoted: m })
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n Dont Forget Give Star\n\nDonate : 6281615075793 (Link Aja)\nSaweria : https://saweria.co/DikaArdnt\nPaypal : https://www.paypal.me/Cakhaho\n\n Dont Forget Donate')
+                m.reply(' Maaf Tidak dapat menampilkan Tersebut! *JASA RUN BOT BY FRON* Chat https://wa.me/6281252733108 (Owner Nafron:')
             }
             break
             case 'chat': {
@@ -1149,7 +1149,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-5273-3108'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1167,7 +1167,7 @@ break
                                     id: 'sc'
                                 }
                             }]
-                      let txt = `「 Broadcast Bot 」\n\n${text}`
+                      let txt = `「 Pengumuman Dari Nafron 」\n\n${text}`
                       hisoka.send5ButImg(i, txt, hisoka.user.name, global.thumb, btn)
                     }
                 m.reply(`Sukses Mengirim Broadcast Ke ${anu.length} Group`)
@@ -1188,7 +1188,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-5273-3108'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2827,7 +2827,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-5273-3108'
                                 }
                             }, {
                                 quickReplyButton: {
